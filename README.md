@@ -8,10 +8,10 @@
 </tr>
 </table>
 
-Anaforá : 
+Anaphorá : 
 
 Is a set of examples, discussions and ultimately recommendations to implement UX solutions for compbio projects.
 
-Add your thoughts to the [wiki](https://github.com/ohsu-comp-bio/anafora/wiki), create [issues](https://github.com/ohsu-comp-bio/anafora/issues) and donate components.
+Add your thoughts to the [wiki](https://github.com/ohsu-comp-bio/anaphora/wiki), create [issues](https://github.com/ohsu-comp-bio/anaphora/issues) and donate components.
 
 We've created a playground so you don't need build from scratch every time, so have fun!
